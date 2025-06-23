@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import extensions from "../data.js";
+import extensions from "../data.jsx";
 import { Icon } from "./assets/assets";
 
 function App() {
