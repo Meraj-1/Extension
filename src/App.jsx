@@ -14,7 +14,7 @@ function App() {
   return (
     // <div className="">
     <div
-      className={`transition-all  pt-10 pb-10  md:px-40 duration-300 lg:h-screen   ${
+      className={`transition-all  pt-5  px-10  pb-10  md:px-40 duration-300 lg:h-screen   ${
         isDark ? "bg-gray-900 text-white" : "bg-blue-50 text-black"
       }`}
     >
